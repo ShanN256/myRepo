@@ -1,1 +1,1 @@
-The flag is {joe bloggs}
+Details sealed
